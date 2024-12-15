@@ -1,6 +1,6 @@
 # Input Form Wave Animation 
 
-![cover](./assets/wave.gif)
+![cover](./image.gif)
 
 ## 🦉 Main information
 
